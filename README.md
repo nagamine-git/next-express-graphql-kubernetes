@@ -1,2 +1,6 @@
 # next-express-graphql-kubernetes
-training
+```bash
+$ node -v #v14.15.5
+$ npm install
+$ npx ts-node index.ts
+```
